@@ -1,5 +1,5 @@
 [extensions]
-remotebranches = ~/.hgextensions/hg_remotebranches.py
+remotebranches = ~/dotfiles/hg/hgextensions/hg_remotebranches.py
 # smartlog = ~/.hgextensions/hg_smartlog.py
 
 #automv =
